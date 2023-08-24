@@ -2,6 +2,9 @@
 
 TimestampAdjuster is a tool specifically designed to adjust auto generated zoom timestamped transcript to your final video edits. It's perfect for video content creators, educators, and anyone in need of accurate video transcriptions.
 
+[Here's an example website using the finalized adjusted transcript.](https://www.tradejournal.co/post/pro-trader-journeys-the-future-of-trading-e30/#full-transcript)
+
+
 ## Features:
 
 - Adjust timestamps based on a specific entry number.
