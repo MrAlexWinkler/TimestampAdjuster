@@ -1,3 +1,6 @@
+![TimestampAdjuster Logo](https://mralexwinkler.com/wp-content/uploads/TimestampAdjuster-GitHub-OpenSource-Zoom-Transcript-Adjuster.png)
+
+
 # TimestampAdjuster
 
 TimestampAdjuster is a tool specifically designed to adjust auto generated zoom timestamped transcript to your final video edits. It's perfect for video content creators, educators, and anyone in need of accurate video transcriptions.
@@ -17,6 +20,7 @@ TimestampAdjuster is a tool specifically designed to adjust auto generated zoom 
 
 1. Ensure you have Python installed.
 2. Clone the repository or download the source files to your local machine.
+3. [Retrieve Transcripts from Zoom Cloud Recordings.](https://mralexwinkler.com/unveiling-timestampadjuster-bringing-precision-to-your-zoom-transcripts/#How-To-Retrieve-Transcripts-from-Zoom-Cloud-Recordings)
 
 ### Steps:
 
